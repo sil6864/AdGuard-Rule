@@ -1,4 +1,4 @@
-# Update time: 2025-08-17 09:06:20
+# Update time: 2025-08-17 20:22:44
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -164,41 +164,41 @@ advertisers.js|
 ||ad*.aginomoto.com
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
-                }
-    })();
-                console.log(JSON.parse(xhr.responseText))
-<style>
-<head>
-    (function () {
-    }
 <script>
     <noscript>
+            pageOptions
     xhr.send();
-                    return;
             } else {
+h1 {
 	}
-<div>
-iframe {
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
         }
-body {
-<body>
-                console.log('There was a problem with the request.');
-            }
-}
 };
 			Buy this domain. | More domains at Seo.Domains
-    };
-h1 {
-        loadFeed(...getLoadFeedArguments());
+                }
             2025 Copyright | All Rights Reserved.
-    function getLoadFeedArguments() {
-    <script>
+                console.log(JSON.parse(xhr.responseText))
+<style>
         ];
-                arguments.push(this[possibleArguments[i]]);
-<!DOCTYPE html>
+<head>
     Privacy Policy
+    }
+                    return;
+    };
+    <script>
+<!DOCTYPE html>
+body {
+                console.log('There was a problem with the request.');
+            }
         return arguments;
-            pageOptions
+}
+    })();
+<div>
+iframe {
+    (function () {
+<body>
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
@@ -300,7 +300,6 @@ h1 {
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
-||us.*.qwadro.com^
 ||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -371,6 +370,7 @@ h1 {
 ||mon*-misc-lf.fqnovel.com^
 ||mon*-misc.fqnovel.com^
 ||ads*.textra.me^
+||us.*.qwadro.com^
 ||aj2*.online^
 ||cs*.mp3bars.com^
 ||zazgiyoh*.xyz^
