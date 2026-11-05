@@ -1,5 +1,5 @@
 # Title: AdGuard、AdGuardHome广告过滤规则合并/去重 - modify.txt
-# Update time: 2026-11-05 03:30:27
+# Update time: 2026-11-05 13:43:08
 # Expires: 12 hours
 # Repo URL:: https://github.com/hululu1068/AdGuard-Rule
 
@@ -27356,7 +27356,7 @@ oneesports.gg##.home-inline-static-sqaure-ad
 inhumanity.com##li[class$="-ad-zone"]
 ||inhumanity.com/ajax/cb_iframe_data.php
 kyivindependent.com##.ads-mobile--show
-meteomedia.com##div[id^="ad-"]
+ldplayer.net,meteomedia.com##div[id^="ad-"]
 meteomedia.com##div[data-testid="content-feed-ad-slot"]
 meteomedia.com###bottom-ad
 giphy.com##div[class^="ads_top_leaderboard_container"]
